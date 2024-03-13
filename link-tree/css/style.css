@@ -1,6 +1,6 @@
 body {
     color: white;
-    background: url("./img/logo.jpg");
+    background: url("../img/logo.jpg");
     background-attachment: fixed;
     background-size: cover;
   }
