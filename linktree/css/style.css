@@ -15,7 +15,8 @@ body {
     margin-top: 60px;
     max-width: 540px
   }
-  
+
+   
   .links-container {
     margin-bottom: 1rem;
     display: flex;
@@ -24,11 +25,11 @@ body {
     align-items: center;
   }
   
-  .links-container a {
+    .links-container a {
     width: 80%;
   }
   
-  .w3-theme-l1:hover {
+    .w3-theme-l1:hover {
     background-color: #f4da15 !important;
   }
   
