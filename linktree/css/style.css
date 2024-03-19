@@ -1,6 +1,6 @@
 body {
     color: black;
-    background: url("linktree/img/logo.png");
+    background-image: url("linktree/img/fondo.jpg");
     background-attachment: fixed;
     background-size: cover;
   }
